@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce934eb6-de87-47cd-b0cc-37789b76b550" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenerateExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PractiseExcercise3/ConsecutiveCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExcercise3/ConsecutiveCheck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/PractiseExcercise3/ConsecutiveCheckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/PractiseExcercise3/ConsecutiveCheckTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConsecutiveCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsecutiveCheck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,23 +25,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="9" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3898" />
+          <entry key="java" value="4940" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3898" />
+          <entry key="JAVA" value="4940" />
         </counts>
       </usages-collector>
     </session>
@@ -63,6 +61,24 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GenerateExceptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-911">
+              <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/assignment-solution-step3/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-312">
+              <caret line="54" column="14" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -106,11 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExceptionHandling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="264">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -138,6 +154,7 @@
         <option value="$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java" />
         <option value="$PROJECT_DIR$/src/ConsecutiveCheck.java" />
         <option value="$PROJECT_DIR$/src/ExceptionHandling.java" />
+        <option value="$PROJECT_DIR$/src/GenerateExceptions.java" />
       </list>
     </option>
   </component>
@@ -184,10 +201,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537255767326" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537266001123" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hamcrest-core-1.3.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/assignment-solution-step3/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -212,7 +229,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConsecutiveCheckTest.checkInput">
+  <component name="RunManager" selected="Application.GenerateExceptions">
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling" />
+      <module name="PractiseExcercise3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateExceptions" />
+      <module name="PractiseExcercise3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsecutiveCheckTest.checkInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PractiseExcercise3" />
       <option name="PACKAGE_NAME" value="" />
@@ -247,9 +278,13 @@
       <item itemvalue="JUnit.StudentsMarksTest.validateInput" />
       <item itemvalue="JUnit.VowelRemovalTest.validateInput" />
       <item itemvalue="JUnit.ConsecutiveCheckTest.checkInput" />
+      <item itemvalue="Application.ExceptionHandling" />
+      <item itemvalue="Application.GenerateExceptions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenerateExceptions" />
+        <item itemvalue="Application.ExceptionHandling" />
         <item itemvalue="JUnit.ConsecutiveCheckTest.checkInput" />
         <item itemvalue="JUnit.VowelRemovalTest.validateInput" />
         <item itemvalue="JUnit.StudentsMarksTest.validateInput" />
@@ -305,7 +340,7 @@
     <frame x="67" y="27" width="1533" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.112306654" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112306654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -323,7 +358,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32882273" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3283582" />
       <window_info anchor="right" id="Ant Build" order="0" weight="0.24949563" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -477,6 +512,36 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenerateExceptions.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenerateExceptions.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenerateExceptions.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenerateExceptions.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenerateExceptions.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java</url>
           <line>17</line>
@@ -503,16 +568,6 @@
     <entry file="file://$PROJECT_DIR$/src/StudentsMarks.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/StudentsMarksTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VowelRemoval.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -527,6 +582,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConsecutiveCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/VowelRemovalTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
@@ -537,17 +599,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConsecutiveCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="264">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling.java">
+    <entry file="file://$PROJECT_DIR$/Tests/StudentsMarksTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        <state relative-caret-position="183">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/assignment-solution-step3/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="54" column="14" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenerateExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-911">
+          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
         </state>
       </provider>
     </entry>
