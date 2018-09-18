@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce934eb6-de87-47cd-b0cc-37789b76b550" name="Default Changelist" comment="" />
+    <list default="true" id="ce934eb6-de87-47cd-b0cc-37789b76b550" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/VowelRemovalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VowelRemoval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PractiseExcercise3/StudentsMarks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExcercise3/StudentsMarks.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,23 +26,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="3" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1217" />
+          <entry key="java" value="2128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1217" />
+          <entry key="JAVA" value="2128" />
         </counts>
       </usages-collector>
     </session>
@@ -45,18 +51,35 @@
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudentsMarks.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/StudentsMarksTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <state relative-caret-position="183">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VowelRemoval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tests/StudentsMarksTest.java">
+        <entry file="file://$PROJECT_DIR$/Tests/VowelRemovalTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="397">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,11 +97,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StudentsMarks.java" />
         <option value="$PROJECT_DIR$/Tests/StudentsMarksTest.java" />
+        <option value="$PROJECT_DIR$/src/StudentsMarks.java" />
+        <option value="$PROJECT_DIR$/src/VowelRemoval.java" />
+        <option value="$PROJECT_DIR$/Tests/VowelRemovalTest.java" />
       </list>
     </option>
   </component>
@@ -88,6 +116,7 @@
     <option name="width" value="767" />
     <option name="height" value="873" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -119,7 +148,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537247835838" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537249973936" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hamcrest-core-1.3.jar!/" />
@@ -147,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.VowelRemovalTest.validateInput">
     <configuration name="StudentsMarksTest.validateInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PractiseExcercise3" />
       <option name="PACKAGE_NAME" value="" />
@@ -158,8 +187,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VowelRemovalTest.validateInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PractiseExcercise3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VowelRemovalTest" />
+      <option name="METHOD_NAME" value="validateInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.StudentsMarksTest.validateInput" />
+      <item itemvalue="JUnit.VowelRemovalTest.validateInput" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VowelRemovalTest.validateInput" />
         <item itemvalue="JUnit.StudentsMarksTest.validateInput" />
       </list>
     </recent_temporary>
@@ -178,42 +222,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 35m 14s.xml">
+    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 47m 18s.xml">
       <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 35m 42s.xml">
-      <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
+    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 09m 35s.xml">
+      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 41m 48s.xml">
-      <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
+    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 10m 22s.xml">
+      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 41m 51s.xml">
-      <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
+    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 11m 40s.xml">
+      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 42m 11s.xml">
-      <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
+    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 16m 31s.xml">
+      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 42m 30s.xml">
-      <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
+    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 17m 15s.xml">
+      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 43m 33s.xml">
-      <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
+    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 18m 33s.xml">
+      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 44m 02s.xml">
-      <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
+    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 19m 26s.xml">
+      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 44m 47s.xml">
-      <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
+    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 21m 11s.xml">
+      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentsMarksTest_validateInput - 2018.09.18 at 10h 44m 58s.xml">
-      <configuration name="StudentsMarksTest.validateInput" configurationId="JUnit" />
+    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 21m 38s.xml">
+      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1533" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32952252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -223,7 +267,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32882273" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991881" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,73 +294,73 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>23</line>
+          <line>21</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>25</line>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>28</line>
+          <line>26</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>32</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>26</line>
+          <line>24</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>30</line>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>35</line>
+          <line>33</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>31</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>29</line>
+          <line>27</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>36</line>
+          <line>34</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>34</line>
+          <line>32</line>
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StudentsMarks.java</url>
-          <line>33</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
@@ -336,16 +380,29 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StudentsMarks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/StudentsMarksTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        <state relative-caret-position="183">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VowelRemoval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/VowelRemovalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
