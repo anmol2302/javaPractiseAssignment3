@@ -1,5 +1,4 @@
 import java.math.BigInteger;
-import java.util.Arrays;
 
 public class ConsecutiveCheck {
 
@@ -30,18 +29,14 @@ public class ConsecutiveCheck {
 
                     }
 
-                    if (count >= Min_COUNT-1) {
+                    if (count >= Min_COUNT - 1) {
 
-
-                        return "yes";
+                        return prepareOutput(true, numbers);
 
                     } else {
 
-                        return "no";
-
-
+                        return prepareOutput(false, numbers);
                     }
-
 
                 } else {
 
@@ -56,7 +51,6 @@ public class ConsecutiveCheck {
 
         } catch (Exception e) {
 
-
             return "invalid input";
         }
 
@@ -70,10 +64,43 @@ public class ConsecutiveCheck {
 
         for (int i = 0; i < individualString.length; i++) {
             arr[i] = new BigInteger(individualString[i]);
-
         }
-        
+
         return arr;
+
+    }
+
+    public String prepareOutput(boolean found, BigInteger[] arr) {
+
+        StringBuilder opStr = new StringBuilder();
+        if (found) {
+            for (int i = 0; i < arr.length; i++) {
+
+                opStr.append(arr[i].toString());
+
+                if (i < arr.length - 1) {
+
+                    opStr.append(",");
+                }
+
+            }
+            opStr.append(" are consecutive numbers");
+
+        } else {
+
+            for (int i = 0; i < arr.length; i++) {
+
+                opStr.append(arr[i].toString());
+
+                if (i < arr.length - 1) {
+
+                    opStr.append(",");
+                }
+            }
+            opStr.append(" are not consecutive numbers");
+        }
+
+        return opStr.toString();
 
     }
 

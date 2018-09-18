@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce934eb6-de87-47cd-b0cc-37789b76b550" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsecutiveCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VowelRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VowelRemoval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PractiseExcercise3/ConsecutiveCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExcercise3/ConsecutiveCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PractiseExcercise3/ConsecutiveCheckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/PractiseExcercise3/ConsecutiveCheckTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsecutiveCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsecutiveCheck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,23 +27,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="8" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3244" />
+          <entry key="java" value="3898" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3244" />
+          <entry key="JAVA" value="3898" />
         </counts>
       </usages-collector>
     </session>
@@ -74,14 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ConsecutiveCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -89,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+            <state relative-caret-position="191">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -107,13 +106,22 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ExceptionHandling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -129,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/VowelRemoval.java" />
         <option value="$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java" />
         <option value="$PROJECT_DIR$/src/ConsecutiveCheck.java" />
+        <option value="$PROJECT_DIR$/src/ExceptionHandling.java" />
       </list>
     </option>
   </component>
@@ -155,6 +164,11 @@
             <path>
               <item name="PractiseExcercise3" type="b2602c69:ProjectViewProjectNode" />
               <item name="PractiseExcercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractiseExcercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractiseExcercise3" type="462c0819:PsiDirectoryNode" />
               <item name="Tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -170,7 +184,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537251793686" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537255767326" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hamcrest-core-1.3.jar!/" />
@@ -256,34 +270,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VowelRemovalTest_validateInput - 2018.09.18 at 11h 22m 56s.xml">
-      <configuration name="VowelRemovalTest.validateInput" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 11h 48m 40s.xml">
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 04m 21s.xml">
       <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 11h 48m 57s.xml">
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 04m 54s.xml">
       <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 11h 49m 39s.xml">
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 05m 40s.xml">
       <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 11h 49m 52s.xml">
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 08m 01s.xml">
       <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 11h 50m 21s.xml">
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 10m 59s.xml">
       <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 11h 50m 38s.xml">
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 12m 21s.xml">
       <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 11h 51m 59s.xml">
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 12m 26s.xml">
       <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 11h 52m 26s.xml">
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 12m 46s.xml">
       <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 11h 53m 04s.xml">
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 13m 18s.xml">
+      <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConsecutiveCheckTest_checkInput - 2018.09.18 at 12h 13m 59s.xml">
       <configuration name="ConsecutiveCheckTest.checkInput" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -291,7 +305,7 @@
     <frame x="67" y="27" width="1533" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112306654" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.112306654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -301,8 +315,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3283582" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991881" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -319,6 +333,35 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112306654" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32882273" />
+      <window_info anchor="right" id="Ant Build" order="0" weight="0.24949563" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -398,6 +441,50 @@
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConsecutiveCheck.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConsecutiveCheck.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConsecutiveCheck.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConsecutiveCheck.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConsecutiveCheck.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConsecutiveCheck.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java</url>
+          <line>17</line>
+          <properties class="ConsecutiveCheckTest" method="checkInput">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -426,6 +513,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/VowelRemoval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/VowelRemovalTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
@@ -436,27 +537,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VowelRemoval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/ConsecutiveCheckTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConsecutiveCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
         </state>
       </provider>
     </entry>
